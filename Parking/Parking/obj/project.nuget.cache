@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HKx8ayP1igMBvpUFlBQfLICh66qQxV/Ma+2obxo1jOfdoXaFcmWT8saiaUq23JrX+WyzMxPvphVody126EIbcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leandro\\Documents\\Códigos\\Back-end\\csharp\\Parking\\Parking\\Parking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Leandro\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
